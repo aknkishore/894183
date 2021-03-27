@@ -1,0 +1,12 @@
+.people{
+    display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  
+    
+}
+
+.people button{
+    background-color:lightgreen;
+}
