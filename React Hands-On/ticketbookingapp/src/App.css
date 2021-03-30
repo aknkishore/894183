@@ -1,0 +1,13 @@
+.App{
+  position: absolute;
+  top: 20%;
+  left: 30%;
+}
+button{
+  text-align: center;
+  display: block;
+  margin: 3px;
+}
+.head{
+  color: green;
+}
